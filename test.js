@@ -1,4 +1,3 @@
-/*
 var assert = require('assert');
  describe('Array', function() {
    describe('#indexOf()', function() {
@@ -6,5 +5,4 @@ var assert = require('assert');
        assert.equal(-1, [1,2,3].indexOf(4));
      });
    });
- }); 
-*/
+ });
