@@ -1,0 +1,1 @@
+[![Build Status](https://img.shields.io/travis/Timothy-Dement/SlackBot.svg)](https://travis-ci.org/Timothy-Dement/SlackBot)
