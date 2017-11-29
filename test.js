@@ -1,4 +1,4 @@
-bull in a china shop
+bull
 
 var assert = require('assert');
  describe('Array', function() {
